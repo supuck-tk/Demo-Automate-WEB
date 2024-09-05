@@ -1,3 +1,4 @@
+# quantityBook : maximum 5
 TC_1  :
   data1 :
     bookName  : "G Shipping"
@@ -11,4 +12,11 @@ TC_1  :
   data5 :
     quantityBook  : 4
   data6 :
-    quantityBook  : 5
+    quantityBook  : 3
+
+TC_2  :
+  menuName :  "การ์ตูน"
+  data2 :
+    categoryName  : "ตลก"
+  data3 :
+    categoryName  : "ดราม่า"

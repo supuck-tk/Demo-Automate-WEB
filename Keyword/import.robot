@@ -15,6 +15,7 @@ Resource    ${CURDIR}/pages/index_page.robot
 Resource    ${CURDIR}/pages/navbar_page.robot
 Resource    ${CURDIR}/pages/searchResults_page.robot
 Resource    ${CURDIR}/pages/cartDetail_page.robot
+Resource    ${CURDIR}/pages/sidebar_page.robot
 #testdata
 Variables    ${CURDIR}/../Resources/setting/setting.yaml
 Variables    ${CURDIR}/../Resources/testdata/data.yaml
