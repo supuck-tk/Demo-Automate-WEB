@@ -1,0 +1,14 @@
+TC_1  :
+  data1 :
+    bookName  : "G Shipping"
+    msg_notFound  : "ไม่พบรายการที่ค้นหา"
+  data2 :
+    bookName  : "Naruto"
+  data3 :
+    quantityBook  : 3
+  data4 :
+    quantityBook  : 5
+  data5 :
+    quantityBook  : 4
+  data6 :
+    quantityBook  : 5
