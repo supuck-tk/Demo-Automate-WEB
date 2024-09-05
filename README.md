@@ -5,4 +5,4 @@ This my project for playground demo automation UI web with robot framework.
 <br>robot framework-6.0.2
 <br>seleniumlibrary-6.0.0
 <br>PyYAML 6.0<br>
-<br># run script : robot --outputdir Results Testcases
+<br># executes script : robot --outputdir Results Testcases
